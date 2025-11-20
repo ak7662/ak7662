@@ -67,8 +67,7 @@ If you're solving big problems with ambitious technology, I’d love to collabor
 
 - 🌐 Portfolio / https://abhishek.seekhocode.co.in
 - 💼 LinkedIn: https://www.linkedin.com/in/ak7662  
-- 🧑‍💻 GitHub: [[github.com/your-username](https://github.com/your-username)
-](https://github.com/ak7662)
+- 🧑‍💻 GitHub: https://github.com/ak7662
 ---
 
 ⭐️ _Thanks for visiting! Feel free to explore my repositories and drop a star if something inspires you._  
